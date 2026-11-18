@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for tokyo-proxy-v5 on 2026-11-17T13:27:49Z
+# fly.toml app configuration file generated for tokyo-proxy-v5-hx43pw on 2026-11-18T05:10:33Z
 #
 # See https://docs.fly.io/reference/configuration for information about how to use this file.
 #
 
-app = 'tokyo-proxy-v5'
+app = 'tokyo-proxy-v5-hx43pw'
 primary_region = 'ams'
 
 [build]
